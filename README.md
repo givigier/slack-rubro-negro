@@ -1,5 +1,5 @@
 # Slack Rubro Negro
-#### Temas do Clube de Regatas do Flamengo para serem usados no Slack
+### Temas do Clube de Regatas do Flamengo para serem usados no Slack
 
 #### Tema uniforme principal:
 
